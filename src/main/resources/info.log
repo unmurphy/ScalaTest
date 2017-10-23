@@ -1,0 +1,12 @@
+21:07:04.020 [mns-producer-network-thread] INFO  c.w.p.disruptor.PushEventHandler - send mns took too long about 482 ms
+21:07:04.020 [mns-producer-network-thread] INFO  c.w.p.disruptor.PushEventHandler - send mns took too long about 478 ms
+21:07:04.020 [mns-producer-network-thread] INFO  c.w.p.disruptor.PushEventHandler - send mns took too long about 393 ms
+21:07:04.020 [mns-producer-network-thread] INFO  c.w.p.disruptor.PushEventHandler - send mns took too long about 384 ms
+21:07:04.020 [mns-producer-network-thread] INFO  c.w.p.disruptor.PushEventHandler - send mns took too long about 321 ms
+21:07:04.030 [mns-producer-network-thread] INFO  c.w.p.disruptor.PushEventHandler - send mns took too long about 492 ms
+21:07:04.030 [mns-producer-network-thread] INFO  c.w.p.disruptor.PushEventHandler - send mns took too long about 405 ms
+21:07:04.030 [mns-producer-network-thread] INFO  c.w.p.disruptor.PushEventHandler - send mns took too long about 397 ms
+21:07:04.030 [mns-producer-network-thread] INFO  c.w.p.disruptor.PushEventHandler - send mns took too long about 334 ms
+21:07:04.030 [mns-producer-network-thread] INFO  c.w.p.disruptor.PushEventHandler - send mns took too long about 316 ms
+21:07:04.030 [mns-producer-network-thread] INFO  c.w.p.disruptor.PushEventHandler - send mns took too long about 491 ms
+21:07:04.030 [mns-producer-network-thread] INFO  c.w.p.disruptor.PushEventHandler - send mns took too long about 460 ms
